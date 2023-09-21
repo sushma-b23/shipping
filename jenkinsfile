@@ -2,4 +2,5 @@
 
 env.component = "shipping"
 env.app_lang = "maven"
+env.extrafiles = "schema"
 ci()
